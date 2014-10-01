@@ -2,12 +2,9 @@
   "name": "crypto-token",
   "description": "Creates a token which is unguessable",
   "repository": "git://github.com/segmentio/crypto-token.git",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "license": "MIT",
   "main": "lib/index.js",
-  "devDependencies": {
-    "set-component": "^1.0.0"
-  },
   "devDependencies": {
     "mocha": "1.x"
   }
